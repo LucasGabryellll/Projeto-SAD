@@ -8,7 +8,17 @@ dos dados utilizando o Pentaho até chegar no Dashboard final, feito no Power BI
 
 ## Plano de carga ELT:
 
+<div align="center">
+ <img alt="GitHub language count" src=https://github.com/LucasGabryellll/Projeto-SAD/blob/main/ETL/plano_carga_dim_local.png width="420px">
+ <img alt="GitHub language count" src=https://github.com/LucasGabryellll/Projeto-SAD/blob/main/ETL/plano_carga_dim_produto.png width="420px">
+ <img alt="GitHub language count" src=https://github.com/LucasGabryellll/Projeto-SAD/blob/main/ETL/plano_carga_dim_tempo.png width="420px">
+ <img alt="GitHub language count" src=https://github.com/LucasGabryellll/Projeto-SAD/blob/main/ETL/plano_carga_fato.png width="420px">
+</div>
 
+## Dashboard:
+<div align="center">
+ <img alt="GitHub language count" src=https://github.com/LucasGabryellll/Projeto-SAD/blob/main/Consultas%20OLAP/Dashboard_concluida.png>
+</div>
 
 ## 🚀 Ferramentas e Tecnologias:
  - <img alt="GitHub language count" src=https://user-images.githubusercontent.com/55465916/232647844-2b934f83-0e4e-4216-aeef-4d1fe2de6901.png width="25px"> PostgresSQL.
